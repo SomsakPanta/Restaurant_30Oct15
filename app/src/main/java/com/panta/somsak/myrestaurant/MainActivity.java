@@ -45,6 +45,8 @@ public class MainActivity extends AppCompatActivity {
         //Synchronize JSON to SQLite
         synJSONtoSQLite();
 
+
+
     }//Main method
 
     private void deleteAllData() {
